@@ -1,0 +1,443 @@
+City Name	Number of Conferences
+Singapore	35
+New York, USA	33
+Barcelona, Spain	27
+Porto, Portugal	25
+Chengdu, Sichuan, China	23
+Hong Kong, China	21
+Dubai, UAE	18
+Beijing, China	17
+Washington DC, USA	17
+Athens, Greece	16
+London, UK	16
+Vienna, Austria	15
+Montréal, Canada	14
+Paris, France	14
+Istanbul, Turkey	13
+Kuala Lumpur, Malaysia	12
+San Francisco, CA, USA	12
+Sydney, Australia	12
+Prague, Czech Republic	11
+Genoa, Italy	10
+Melbourne, VIC, Australia	10
+Toulouse, France	10
+Vancouver, Canada	10
+Wuhan, China	10
+Bangkok, Thailand	9
+Moscow, Russia	9
+Snowbird, Utah, USA	9
+Tokyo, Japan	9
+Atlantic City, New Jersey, USA	8
+Jeju Island, South Korea	8
+Seattle, WA, USA	8
+Brisbane, Australia	7
+Chicago, Illinois, USA	7
+Marco Island, Florida, USA	7
+Riva del Garda, Italy	7
+Santa Clara, California, USA	7
+Scottsdale, Arizona, USA	7
+Seoul, South Korea	7
+The Hague, The Netherlands	7
+Gdansk, Poland	6
+Glasgow, Scotland, UK	6
+Lisbon, Portugal	6
+Madrid, Spain	6
+Munich, Germany	6
+Phuket, Thailand	6
+Rome, Italy	6
+Seville, Spain	6
+Shanghai, China	6
+Amsterdam, The Netherlands	5
+Bali, Indonesia	5
+Berlin, Germany	5
+Dallas, Texas, USA	5
+Helsinki, Finland	5
+Ho Chi Minh City, Vietnam	5
+Kaohsiung, Taiwan	5
+Kyoto, Japan	5
+Las Vegas, Nevada, USA	5
+Lille, France	5
+Limassol, Cyprus	5
+Marrakesh, Morrocco	5
+Pittsburgh, Pennsylvania, USA	5
+San Diego, CA, USA	5
+Valencia, Spain	5
+Wroclaw, Poland	5
+Xi'an, China	5
+Atlanta, Georgia, USA	4
+Bangalore, India	4
+Bruges, Belgium	4
+Chongqing, China	4
+Denver, Colorado, USA	4
+Lucerne, Switzerland	4
+Miami, Florida, USA	4
+Naiguatá, VENEZUELA	4
+Portoroz, Slovenia	4
+Pune, India	4
+Raleigh, USA	4
+Santiago, Chile	4
+Shenzhen, China	4
+Taipei, Taiwan	4
+Thessaloniki, Greece	4
+Vilamoura, Algarve, Portugal	4
+Warsaw, Poland	4
+Adelaide, Australia	3
+Anchorage, Alaska, USA	3
+Arras, France	3
+Auckland, New Zealand	3
+Austin, Texas, USA	3
+Boston, MA, USA	3
+Budapest, Hungary	3
+Buenos Aires, Argentina	3
+Burlingame, CA, USA	3
+Cambridge, UK	3
+Chennai, India	3
+Clermont-Ferrand, France	3
+Coimbra, Portugal	3
+Cádiz, Spain	3
+Druskininkai, Lithuania	3
+Florence, Italy	3
+Guangzhou, China	3
+Hamilton, New Zealand	3
+Hangzhou, China	3
+Hyderabad, India	3
+Kitakyushu, Japan	3
+Klagenfurt, Austria	3
+Los Angeles, California, USA	3
+Macau, China	3
+New Delhi, India	3
+Paphos, Cyprus	3
+Poitiers, France	3
+Riga, Latvia	3
+San Jose, CA	3
+Sorrento Coast, Italy	3
+Stuttgart, Germany	3
+Trento, Italy	3
+Ustron near Krakow, Poland	3
+Ustron, Poland	3
+Venice, Italy	3
+Vietri Sul Mare, Salerno, Italy	3
+Łódź, Poland	3
+Aalborg, Denmark	2
+Aberdeen, Scotland, UK	2
+Aizu-Wakamatsu, Fukushima, Japan	2
+Amantea, Calabria, Italy	2
+Amman, Jordan	2
+Augsburg, Germany	2
+Bari, Italy	2
+Benicàssim, Spain	2
+Bordeaux, France	2
+Brussels, Belgium	2
+Cagliari, Italy	2
+Cambridge, MA, USA	2
+Canberra, Australia	2
+Cancún, Mexico	2
+Changsha, China	2
+Chania, Crete, Greece	2
+Chiang Mai, Thailand	2
+Colchester, UK	2
+Colombo	2
+Cracow, Poland	2
+Cusco, Peru	2
+Edinburgh, Scotland, UK	2
+Gdynia, Poland	2
+Gifu, Japan	2
+Gran Canaria, Spain, Europe	2
+Graz, Austria	2
+Halifax, Nova Scotia, Canada	2
+Hanoi, VietNam	2
+Harbin, China	2
+Hertfordshire, UK	2
+Huddersfield, UK	2
+Irbid, Jordan	2
+Islamabad	2
+Kanazawa, Japan	2
+Kanyakumari, India	2
+Key Largo, FL, USA	2
+Kochi, Kerala	2
+Kortrijk, Belgium	2
+La Habana, Cuba	2
+Lakeland, Florida, USA	2
+Langkawi, Malaysia	2
+Malacca, Malaysia	2
+Malatya, Turkey	2
+Manchester, United Kingdom	2
+Marseille (France)	2
+Maui, Hawaii, USA	2
+Maui, USA	2
+Mexico City, Mexico	2
+Milan, Italy	2
+Montpellier, France	2
+Naples, Italy	2
+Nice, France	2
+Nicosia, Cyprus	2
+Omaha, Nebraska, USA	2
+Opatija, Croatia	2
+Osaka, Japan	2
+Ostrava, Czech Republic	2
+Oxford, UK	2
+Padova, Italy	2
+Penang, Malaysia	2
+Philadelphia, PA, USA	2
+Rio de Janeiro, Brazil	2
+Riva del Garda, Trento, Italy	2
+Riyadh, Saudi Arabia	2
+Salt Lake City, Utah, USA	2
+Salzburg, Austria	2
+San Jose, Costa Rica	2
+Sao Paulo, Brazil	2
+Sapporo, Hokkaido, Japan	2
+Sarawak, Malaysia	2
+Stony Brook University, New York, USA	2
+Suzhou	2
+Tallinn, ESTONIA	2
+Timisoara, Romania	2
+Ulm University, Germany	2
+University of Aizu, Aizu-Wakamatsu, Japan	2
+Valencia	2
+Valparaiso, Chile	2
+Zagreb, Croatia	2
+Zurich, Switzerland	2
+A Coruña, Spain	1
+Abdullah Gül University, Kayseri, Turkey	1
+Aberystwyth University, Aberystwyth, UK	1
+Agra, India	1
+Ahmedabad, India	1
+Aksaray, Turkey	1
+Alghero/Sassari, Sardinia, Italy	1
+Alicante, Spain	1
+Allahabad, India	1
+Almería, Spain	1
+Amritapuri, Kerala, India	1
+Anaheim, CA, USA	1
+Antwerp, Belgium	1
+Arlington, VA	1
+Asilomar, California	1
+Bahrain	1
+Bandar Seri Begawan, Brunei	1
+Belgrade, Serbia	1
+Beni Suef, Egypt	1
+Bergen, Norway	1
+Bilbao	1
+Bonn, Germany	1
+Bragança - Portugal	1
+Brindisi	1
+British Columbia, Canada	1
+Brunei	1
+Bucaramanga, Colombia	1
+Bucharest, Romania	1
+Busan, South Korea	1
+Będlewo, Poland	1
+California, USA	1
+Cape Town, South Africa	1
+Cardiff University, UK	1
+Chihuahua, México	1
+Clare College, Cambridge, UK	1
+Clarkson University, Potsdam, NY, USA	1
+Cluj-Napoca, Romania	1
+Columbia University, New York, USA	1
+Constantine- Algerie	1
+Copenhagen, Denmark	1
+Cotonou, Republic of Benin	1
+Covilhã, Portugal	1
+Craiova, Romania	1
+Cuenca, Ecuador	1
+Curitiba, Brazil	1
+Cyprus	1
+Daegu, South Korea	1
+Daejeon, Korea	1
+Dalian, China	1
+Darmstadt, Germany	1
+Dayton, Ohio	1
+Delft, The Netherlands	1
+Depok, West Java	1
+Detroit, USA	1
+Dublin, Ireland	1
+Egypt	1
+Evanston, Illinois	1
+Fort Lauderdale, Florida, USA	1
+Fort Wayne, IN	1
+Fukuoka, Japan	1
+Funchal, Madeira, Portugal	1
+Gaithersburg, MD, USA	1
+Galway, Ireland	1
+Geneva , Switzerland	1
+Gijón, Spain	1
+Gold Coast	1
+Greenville, South Carolina, USA	1
+Guayaquil, Ecuador	1
+Guru Nanak Institutions, Hyderabad, India	1
+Haifa, Israel	1
+Hammamet, Tunisia	1
+Hasselt, Belgium	1
+Hatyai, Thailand	1
+Heidelberg	1
+Heraklion, Crete, Greece	1
+Hobart, Australia	1
+Hollywood, Florida, USA	1
+Houston, Texas, USA	1
+Hsinchu City, Taiwan	1
+Hue City, Vietnam	1
+Incheon, Korea	1
+India	1
+Indianapolis, IN	1
+Indianapolis, USA	1
+Instabul, Turkey	1
+Institut Teknologi Brunei, Brunei	1
+Island of Rhodes, GREECE	1
+Issyk Kul, Kyrgyzstan	1
+Itaipava - Petropolis, Brazil	1
+Jaipur, India	1
+Jakarta, Indonesia	1
+Kansas City, USA	1
+Katmandu, Nepal	1
+Kaunas, Lithuania	1
+Kazan, Russia	1
+Khenchela, Algeria	1
+Khon Kaen, Thailand	1
+Kobe, Japan	1
+Koblenz, Germany	1
+Kohala Coast, Hawaii, USA	1
+Kolkata, India	1
+Krabi, Thailand	1
+Lago Di Garda, Trento, Italy	1
+Laguna Hills, California	1
+Lake Placid, NY, USA.	1
+Lappeenranta	1
+Larnaca	1
+Leiden, The Netherlands	1
+Leon Spain	1
+Lima, Peru	1
+Limerick City, Ireland	1
+Lincoln, Nebraska	1
+Liverpool, UK	1
+Los Cabos, Mexico	1
+Lyon, France	1
+Madeira	1
+Magdeburg, Germany	1
+Malang, Indonesia	1
+Maratea, Italy	1
+Marburg, Germany	1
+Mashhad, Iran	1
+Massachusetts Institute of Technology	1
+Matsue, Japan	1
+Menlo Park, CA	1
+Mevlana University	1
+Minneapolis, MN, USA	1
+Montevideo, Uruguay	1
+Mountain View, CA, USA	1
+Mulhouse, France	1
+Mérida, México	1
+Nagasaki, Japan	1
+Nagoya, Japan	1
+Nanchang, Jiangxi, China	1
+Nanjing, china	1
+Nantes, France	1
+Nanyang Technological University	1
+New Brunswick, New Jersey, USA	1
+New Orleans, USA	1
+New Taipei, Taiwan	1
+Newcastle, Australia	1
+Nîmes	1
+Nörten-Hardenberg, Germany	1
+Obninsk, Russia	1
+Odisha, India	1
+Ohrid, Republic of Macedonia	1
+Oldenburg, Lower Saxony, Germany	1
+Olten, Switzerland	1
+Orlando, Florida, USA	1
+Ottawa, Canada	1
+Ouagadougou, Burkina Faso, West Africa	1
+Ouro Preto, Brazil	1
+Paderborn, Germany	1
+Palais des Congrès Neptune, Toulon, France	1
+Palawan, Philippines	1
+Panama City, Panama	1
+Paris, Villejuif, France	1
+Phoenix, Arizona, USA	1
+Ploiesti, Romania	1
+Portland, Oregon	1
+Porto Santo, Madeira, Portugal	1
+Portsmouth, UK	1
+Potsdam, Germany	1
+Poznan, Poland	1
+Puebla	1
+Puebla, Cholula, Mexico	1
+Puerto de la Cruz, Tenerife, Spain	1
+Qingdao, Shandong, China	1
+Qinhuangdao	1
+Quebec, Canada	1
+Quito, Ecuador	1
+Rabat	1
+Reduit, Mauritius	1
+Reggio di Calabria	1
+Reunion Island	1
+Reykjavík, Iceland	1
+Roccella Jonica, RC, Italy	1
+Rostov-on-Don	1
+Rotterdam, Netherlands	1
+Rouen	1
+Rourkela, Odisha, India	1
+Saint-Etienne, France	1
+Saint-Petersburg	1
+Salamanca	1
+San Juan, Puerto Rico	1
+Santa Fe, New Mexico, USA.	1
+Santorini Island, Greece	1
+Savannah, Georgia, USA	1
+Shah Alam, Selangor, Malaysia	1
+Sharjah, UAE	1
+Sinaia, Romania	1
+Skopje, Macedonia	1
+Soonchunhyang (SCH) University, Asan, Korea	1
+South Carolina, USA	1
+St. Petersburg, Russia	1
+Stanford, CA, USA	1
+Stellenbosch, South Africa	1
+Stirling, Scotland, UK	1
+Stockholm	1
+Stonybrook, NY	1
+Sturovo, Slovakia	1
+Sun Moon Lake, Taiwan	1
+Sweden	1
+Tainan, Taiwan	1
+Takamatsu, Japan	1
+Tayih Landis Hotel, Tainan, Taiwan	1
+Tehran, Iran	1
+Tenerife, Spain	1
+The Beskids, Poland	1
+The University of British Columbia	1
+Thu Dau Mot City, Vietnam	1
+Tianjin, China	1
+Tirana, Albania	1
+Torino/Turin, Italy	1
+Toronto, Canada	1
+Trier, Germany	1
+Tromsø, Norway	1
+Tumkur	1
+Tunisia	1
+UC Davis, Davis, CA, USA	1
+UQAM, Montreal, Qc. Canada	1
+USA	1
+Ulsan, Korea	1
+Universitat Pompeu Fabra, Barcelona	1
+University of Dayton, Dayton, Ohio	1
+University of Liège, Liège, Belgium	1
+University of Macau, Macau	1
+University of Oxford, UK	1
+University of Surrey, Guildford, UK	1
+University of Twente, The Netherlands	1
+VIT University, Vellore	1
+Varazdin, Croatia	1
+Veliko Tarnovo, Bulgaria	1
+Veliky Novgorod, Russia	1
+Victoria, BC, Canada	1
+Vilnius, Lithuania	1
+Volos, Greece	1
+Volterra (Pisa) Tuscany	1
+West Bengal	1
+Yangzhou, China	1
+Yogyakarta, Indonesia	1
+Yokohama, Japan	1
+York, UK	1
+Zakopane, Poland	1

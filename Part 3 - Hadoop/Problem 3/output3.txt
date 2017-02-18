@@ -1,0 +1,7274 @@
+(BDM'16)	
+
+Auckland, New Zealand
+
+
+
+
+4DML in Biometrics	
+
+USA
+
+
+
+
+6th ICITCS	
+
+Prague, Czech Republic
+
+
+
+
+8th ICISA	
+
+Macau, China
+
+
+
+
+AAIA	
+
+Gdansk, Poland
+
+
+
+
+AAMAS	
+
+Sao Paulo, Brazil
+
+
+
+
+ACALCI	
+
+Canberra, Australia
+
+
+
+
+ACCVW-MLAC	
+
+Taipei, Taiwan
+
+
+
+
+ACIIDS	
+
+Kaohsiung, Taiwan
+Kuala Lumpur, Malaysia
+
+
+
+
+ACIRS	
+
+Tokyo, Japan
+Wuhan, China
+
+
+
+
+ACIRS-IEEE	
+
+Wuhan, China
+
+
+
+
+ACIS	
+
+Krabi, Thailand
+
+
+
+
+ACM - DTTA Track	
+
+Coimbra, Portugal
+
+
+
+
+ACM SAC-RS	
+
+Marrakesh, Morrocco
+
+
+
+
+ACM--ICDLT	
+
+Chengdu, Sichuan, China
+
+
+
+
+ACML	
+
+Hong Kong, China
+Hamilton, New Zealand
+
+
+
+
+ACMME	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ACMME--EI	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ACSTY	
+
+Chennai, India
+
+
+
+
+ACT	
+
+Lincoln, Nebraska
+
+
+
+
+ACTIVE	
+
+San Diego, CA, USA
+
+
+
+
+ADAPT	
+
+Prague, Czech Republic
+
+
+
+
+ADBIS	
+
+Vienna, Austria
+Nicosia, Cyprus
+
+
+
+
+ADBIS -	
+
+Poitiers, France
+
+
+
+
+ADBIS - Workshops	
+
+Nicosia, Cyprus
+
+
+
+
+ADC	
+
+Melbourne, VIC, Australia
+Melbourne, VIC, Australia
+Brisbane, Australia
+
+
+
+
+ADMA	
+
+Gold Coast
+
+
+
+
+ADMI	
+
+Singapore
+
+
+
+
+ADS	
+
+Kanazawa, Japan
+
+
+
+
+AECIA	
+
+Marrakesh, Morrocco
+Paris, Villejuif, France
+
+
+
+
+AECM	
+
+Munich, Germany
+
+
+
+
+AFRICOMM	
+
+Ouagadougou, Burkina Faso, West Africa
+
+
+
+
+AGI	
+
+Berlin, Germany
+New York, USA
+
+
+
+
+AI	
+
+Hobart, Australia
+Victoria, BC, Canada
+
+
+
+
+AI & FL	
+
+Dubai, UAE
+
+
+
+
+AI*AAL.it	
+
+Genoa, Italy
+
+
+
+
+AI-HRI	
+
+Arlington, VA
+
+
+
+
+AIACT	
+
+Wuhan, China
+
+
+
+
+AIAP	
+
+Vienna, Austria
+
+
+
+
+AIAPP	
+
+Geneva , Switzerland
+
+
+
+
+AIC	
+
+New York, USA
+
+
+
+
+AICS	
+
+Dublin, Ireland
+
+
+
+
+AIFZ	
+
+Chennai, India
+
+
+
+
+AIKED	
+
+Cambridge, UK
+
+
+
+
+AIM@EPIA	
+
+Porto, Portugal
+
+
+
+
+AIMA	
+
+Gdansk, Poland
+
+
+
+
+AIMaViG	
+
+Gdansk, Poland
+
+
+
+
+AIPR	
+
+Washington DC, USA
+
+
+
+
+AIR	
+
+Nanjing, china
+
+
+
+
+AIRIM	
+
+Gdansk, Poland
+
+
+
+
+AISC	
+
+Zurich, Switzerland
+
+
+
+
+AISI	
+
+Beni Suef, Egypt
+Egypt
+
+
+
+
+AISO	
+
+Dubai, UAE
+
+
+
+
+AISTATS	
+
+Cádiz, Spain
+Fort Lauderdale, Florida, USA
+
+
+
+
+AISec	
+
+Denver, Colorado, USA
+
+
+
+
+AITIC	
+
+Newcastle, Australia
+
+
+
+
+AIVAHC	
+
+Cancún, Mexico
+
+
+
+
+AIoT	
+
+Covilhã, Portugal
+
+
+
+
+AKTS	
+
+Druskininkai, Lithuania
+
+
+
+
+ALA	
+
+Singapore
+
+
+
+
+ALICE	
+
+Ostrava, Czech Republic
+
+
+
+
+ALatIKNOW	
+
+Graz, Austria
+
+
+
+
+AMCIS	
+
+Detroit, USA
+
+
+
+
+AMW	
+
+Puebla, Cholula, Mexico
+Santiago, Chile
+Ouro Preto, Brazil
+Panama City, Panama
+
+
+
+
+ANNPR	
+
+Ulm University, Germany
+
+
+
+
+APCCM	
+
+Adelaide, Australia
+Auckland, New Zealand
+
+
+
+
+APWeb	
+
+Suzhou
+Changsha, China
+
+
+
+
+ARIA	
+
+Sydney, Australia
+
+
+
+
+ARIN	
+
+Vienna, Austria
+
+
+
+
+ASC	
+
+Jeju Island, South Korea
+
+
+
+
+ASE BigData	
+
+Kaohsiung, Taiwan
+
+
+
+
+ASE SocialInformatics	
+
+Kaohsiung, Taiwan
+
+
+
+
+ASIIS (ACM SAC)	
+
+Coimbra, Portugal
+
+
+
+
+ASONAM	
+
+Paris, France
+Paris, France
+
+
+
+
+AT	
+
+Valencia
+
+
+
+
+ATGRC	
+
+Munich, Germany
+
+
+
+
+ATSS	
+
+Rio de Janeiro, Brazil
+
+
+
+
+ATT	
+
+New York, USA
+
+
+
+
+AV+EC	
+
+Brisbane, Australia
+
+
+
+
+AWRL	
+
+Hamilton, New Zealand
+
+
+
+
+Adaptive NLP	
+
+Buenos Aires, Argentina
+
+
+
+
+Advances in Learning with Kernels@ESANN	
+
+Bruges, Belgium
+
+
+
+
+AmILP@ECAI	
+
+The Hague, The Netherlands
+
+
+
+
+Archiving	
+
+Riga, Latvia
+
+
+
+
+Artificial Intelligence Workshop - ENC	
+
+Chihuahua, México
+
+
+
+
+BAFI	
+
+Santiago, Chile
+
+
+
+
+BBC	
+
+San Diego, CA, USA
+
+
+
+
+BBH	
+
+Washington DC, USA
+
+
+
+
+BDAS	
+
+Ustron, Poland
+Ustron, Poland
+Ustron, Poland
+Ustron near Krakow, Poland
+Ustron near Krakow, Poland
+Ustron near Krakow, Poland
+
+
+
+
+BDI	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+BDL	
+
+Porto, Portugal
+
+
+
+
+BDQM	
+
+Dallas, Texas, USA
+
+
+
+
+BDSAV	
+
+Washington DC, USA
+
+
+
+
+BDTA	
+
+Seoul, South Korea
+
+
+
+
+BEWEB	
+
+Genoa, Italy
+
+
+
+
+BICOD	
+
+Edinburgh, Scotland, UK
+
+
+
+
+BIGDATA	
+
+Istanbul, Turkey
+Reduit, Mauritius
+
+
+
+
+BIGDATA-ASH	
+
+Santa Clara, California, USA
+
+
+
+
+BIGProv	
+
+Genoa, Italy
+
+
+
+
+BIOKDD	
+
+Valencia, Spain
+Porto, Portugal
+
+
+
+
+BIRTE	
+
+Istanbul, Turkey
+Trento, Italy
+Hangzhou, China
+
+
+
+
+BNCOD	
+
+Manchester, United Kingdom
+University of Oxford, UK
+
+
+
+
+BOOM	
+
+New York, USA
+
+
+
+
+BTW	
+
+Stuttgart, Germany
+
+
+
+
+BUDA	
+
+Snowbird, Utah, USA
+
+
+
+
+Balisage	
+
+Montréal, Canada
+
+
+
+
+Baltic DB&IS	
+
+Tallinn, ESTONIA
+
+
+
+
+Baltic DB&IS, DC	
+
+Riga, Latvia
+
+
+
+
+BalticDB&IS	
+
+Vilnius, Lithuania
+
+
+
+
+BeyondLabeler	
+
+New York, USA
+
+
+
+
+BiDaDA	
+
+Dallas, Texas, USA
+
+
+
+
+BiDaTA	
+
+Genoa, Italy
+
+
+
+
+BiSIP	
+
+India
+
+
+
+
+Big Data	
+
+Alicante, Spain
+Chengdu, Sichuan, China
+Xi'an, China
+
+
+
+
+Big Data & Analytics - ANT	
+
+London, UK
+
+
+
+
+Big Data Analytics@IJCNN	
+
+Anchorage, Alaska, USA
+
+
+
+
+Big Data Workshop	
+
+Santa Clara, California, USA
+
+
+
+
+Big EMPS	
+
+Washington DC, USA
+
+
+
+
+BigComp Workshop	
+
+Jeju Island, South Korea
+
+
+
+
+BigD2M	
+
+London, UK
+Madrid, Spain
+
+
+
+
+BigDAW	
+
+Colombo
+
+
+
+
+BigDF	
+
+Hyderabad, India
+
+
+
+
+BigData	
+
+Mevlana University
+
+
+
+
+BigData-BMLIT	
+
+Washington DC, USA
+
+
+
+
+BigData4Healthcare	
+
+Hong Kong, China
+
+
+
+
+BigDataSE	
+
+Helsinki, Finland
+
+
+
+
+BigGraphs	
+
+Washington DC, USA
+Santa Clara, California, USA
+
+
+
+
+BigScholar	
+
+Florence, Italy
+
+
+
+
+BigSys	
+
+Stuttgart, Germany
+
+
+
+
+Bigdata	
+
+Liverpool, UK
+
+
+
+
+Bridging	
+
+New York, USA
+
+
+
+
+C-Big	
+
+Pittsburgh, Pennsylvania, USA
+
+
+
+
+CABDA@CYBCONF	
+
+Gdynia, Poland
+
+
+
+
+CACRE	
+
+Kitakyushu, Japan
+
+
+
+
+CACS	
+
+Evanston, Illinois
+
+
+
+
+CAIA	
+
+Berlin, Germany
+
+
+
+
+CAP	
+
+Marseille (France)
+
+
+
+
+CBR@FLAIRS	
+
+Marco Island, Florida, USA
+
+
+
+
+CCC@ICCBR	
+
+Atlanta, Georgia, USA
+
+
+
+
+CCEAI	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+CCIA	
+
+Universitat Pompeu Fabra, Barcelona
+
+
+
+
+CCISP-EI	
+
+Dubai, UAE
+
+
+
+
+CCKS	
+
+Beijing, China
+
+
+
+
+CCKS-Challenge	
+
+Beijing, China
+
+
+
+
+CCML	
+
+Tianjin, China
+
+
+
+
+CCSEA	
+
+Dubai, UAE
+
+
+
+
+CCSEIT	
+
+Vienna, Austria
+
+
+
+
+CCSSE	
+
+Singapore
+
+
+
+
+CD	
+
+San Francisco, CA, USA
+
+
+
+
+CDKP	
+
+Dubai, UAE
+
+
+
+
+CDMW	
+
+Maui, Hawaii, USA
+
+
+
+
+CECIIS	
+
+Varazdin, Croatia
+
+
+
+
+CEEC	
+
+Colchester, UK
+
+
+
+
+CIARP	
+
+Lima, Peru
+Montevideo, Uruguay
+
+
+
+
+CIBB	
+
+Stirling, Scotland, UK
+Naples, Italy
+
+
+
+
+CICCI	
+
+La Habana, Cuba
+
+
+
+
+CIDM	
+
+Cape Town, South Africa
+
+
+
+
+CIDR	
+
+Asilomar, California
+
+
+
+
+CIESC	
+
+Naiguatá, VENEZUELA
+
+
+
+
+CIG	
+
+Santorini Island, Greece
+
+
+
+
+CIG / CEEC	
+
+Colchester, UK
+
+
+
+
+CIIISI	
+
+La Habana, Cuba
+
+
+
+
+CIIS	
+
+Brunei
+
+
+
+
+CIKM	
+
+Glasgow, Scotland, UK
+Melbourne, VIC, Australia
+Maui, USA
+Singapore
+Melbourne, VIC, Australia
+Glasgow, Scotland, UK
+
+
+
+
+CIKM Posters	
+
+Maui, USA
+
+
+
+
+CISIM	
+
+Venice, Italy
+
+
+
+
+CITI	
+
+Guayaquil, Ecuador
+
+
+
+
+CLA	
+
+Moscow, Russia
+
+
+
+
+CLEI	
+
+Naiguatá, VENEZUELA
+Naiguatá, VENEZUELA
+
+
+
+
+CLOSER	
+
+Porto, Portugal
+
+
+
+
+CLTM	
+
+Naiguatá, VENEZUELA
+
+
+
+
+CMAME	
+
+Chengdu, Sichuan, China
+
+
+
+
+CMEM	
+
+Opatija, Croatia
+
+
+
+
+CML	
+
+Barcelona, Spain
+
+
+
+
+CMS	
+
+Milan, Italy
+
+
+
+
+CMVIT	
+
+Singapore
+
+
+
+
+CN4IoT	
+
+Brindisi
+
+
+
+
+CODS	
+
+Pune, India
+
+
+
+
+COLT	
+
+New York, USA
+
+
+
+
+COMAD	
+
+Bangalore, India
+Hyderabad, India
+Pune, India
+Ahmedabad, India
+Pune, India
+
+
+
+
+COMPRAIL	
+
+Madrid, Spain
+
+
+
+
+COOS	
+
+Singapore
+
+
+
+
+COREDEMA @ ECAI	
+
+The Hague, The Netherlands
+
+
+
+
+CORES	
+
+Wroclaw, Poland
+
+
+
+
+COSIT	
+
+Santa Fe, New Mexico, USA.
+
+
+
+
+CPAIOR	
+
+Padova, Italy
+
+
+
+
+CPAIOR (2nd CfP)	
+
+Padova, Italy
+
+
+
+
+CPS	
+
+Craiova, Romania
+
+
+
+
+CPSCom	
+
+Chengdu, Sichuan, China
+
+
+
+
+CRC	
+
+Hong Kong, China
+
+
+
+
+CRC--Ei	
+
+Hong Kong, China
+
+
+
+
+CRoNe	
+
+Valparaiso, Chile
+Valparaiso, Chile
+
+
+
+
+CSBio	
+
+University of Macau, Macau
+
+
+
+
+CSE	
+
+Paphos, Cyprus
+Aalborg, Denmark
+Dubai, UAE
+
+
+
+
+CSIT	
+
+Amman, Jordan
+
+
+
+
+CSMC	
+
+Huddersfield, UK
+
+
+
+
+CSMO	
+
+Phuket, Thailand
+
+
+
+
+CSPRED	
+
+Raleigh, USA
+
+
+
+
+CSTSC	
+
+Gran Canaria, Spain, Europe
+
+
+
+
+CVM	
+
+Cardiff University, UK
+
+
+
+
+CVVT	
+
+Las Vegas, Nevada, USA
+
+
+
+
+Cloud-I	
+
+Riva del Garda, Trento, Italy
+
+
+
+
+CloudDB	
+
+Maui, Hawaii, USA
+Chicago, Illinois, USA
+San Francisco, CA, USA
+Glasgow, Scotland, UK
+
+
+
+
+CogMan	
+
+Ottawa, Canada
+
+
+
+
+CogSIMA	
+
+Savannah, Georgia, USA
+
+
+
+
+CyberC	
+
+Chengdu, Sichuan, China
+Xi'an, China
+
+
+
+
+CyberSafety	
+
+Indianapolis, IN
+
+
+
+
+D-CLOUD	
+
+Hong Kong, China
+
+
+
+
+DAB	
+
+Haifa, Israel
+Beijing, China
+
+
+
+
+DALI	
+
+Toulouse, France
+
+
+
+
+DAMDID/RCDL	
+
+Obninsk, Russia
+
+
+
+
+DAPHNE	
+
+Brussels, Belgium
+
+
+
+
+DAPS	
+
+Barcelona, Spain
+
+
+
+
+DARE	
+
+Riva del Garda, Italy
+
+
+
+
+DARS	
+
+London, UK
+
+
+
+
+DASFAA	
+
+Wuhan, China
+Suzhou
+
+
+
+
+DASFAA (Demo Track)	
+
+Hanoi, VietNam
+
+
+
+
+DATA	
+
+Vienna, Austria
+Rome, Italy
+
+
+
+
+DATA STREAMS TRACK	
+
+Marrakesh, Morrocco
+
+
+
+
+DAVA	
+
+Indianapolis, USA
+
+
+
+
+DBCrowd	
+
+Riva del Garda, Italy
+
+
+
+
+DBDBD	
+
+Antwerp, Belgium
+University of Twente, The Netherlands
+Rotterdam, Netherlands
+Brussels, Belgium
+
+
+
+
+DBDM	
+
+Dubai, UAE
+
+
+
+
+DBKDA	
+
+Lisbon, Portugal
+Reunion Island
+
+
+
+
+DBLM	
+
+Toulouse, France
+Vienna, Austria
+
+
+
+
+DBPL	
+
+Trento, Italy
+Seattle, WA, USA
+
+
+
+
+DBRank	
+
+Seattle, WA, USA
+Instabul, Turkey
+
+
+
+
+DBSocial	
+
+Scottsdale, Arizona, USA
+Athens, Greece
+New York, USA
+
+
+
+
+DBTest	
+
+Scottsdale, Arizona, USA
+Athens, Greece
+
+
+
+
+DC @ Baltic DB&IS	
+
+Tallinn, ESTONIA
+
+
+
+
+DCNET	
+
+Seville, Spain
+Rome, Italy
+
+
+
+
+DDDM	
+
+Vancouver, Canada
+Vancouver, Canada
+
+
+
+
+DEOS	
+
+Oxford, UK
+Seoul, South Korea
+
+
+
+
+DEXA	
+
+Prague, Czech Republic
+Toulouse, France
+
+
+
+
+DICTA	
+
+Adelaide, Australia
+
+
+
+
+DILS	
+
+Lisbon, Portugal
+Montréal, Canada
+
+
+
+
+DIM	
+
+Pittsburgh, Pennsylvania, USA
+Las Vegas, Nevada, USA
+San Francisco, CA, USA
+San Francisco, CA, USA
+
+
+
+
+DIPDMWC	
+
+Moscow, Russia
+
+
+
+
+DIVAI	
+
+Sturovo, Slovakia
+
+
+
+
+DKMP	
+
+Dubai, UAE
+Dubai, UAE
+
+
+
+
+DLRS	
+
+Boston, MA, USA
+
+
+
+
+DMAP	
+
+Vienna, Austria
+
+
+
+
+DMC	
+
+Washington DC, USA
+Chicago, Illinois, USA
+
+
+
+
+DMC 2013 at BTW	
+
+Magdeburg, Germany
+
+
+
+
+DMCIT	
+
+Phuket, Thailand
+
+
+
+
+DMCIT-EI	
+
+Phuket, Thailand
+
+
+
+
+DMCities	
+
+Atlantic City, New Jersey, USA
+
+
+
+
+DMDB	
+
+Vienna, Austria
+
+
+
+
+DMDMS	
+
+Madrid, Spain
+
+
+
+
+DMIoT	
+
+Barcelona, Spain
+
+
+
+
+DMS	
+
+Sydney, Australia
+Zurich, Switzerland
+Barcelona, Spain
+
+
+
+
+DNIS	
+
+University of Aizu, Aizu-Wakamatsu, Japan
+University of Aizu, Aizu-Wakamatsu, Japan
+Aizu-Wakamatsu, Fukushima, Japan
+
+
+
+
+DOLAP	
+
+Glasgow, Scotland, UK
+Burlingame, CA, USA
+
+
+
+
+DPBA	
+
+Adelaide, Australia
+
+
+
+
+DS	
+
+Bari, Italy
+
+
+
+
+DS4IDS@ICCSA	
+
+Beijing, China
+
+
+
+
+DSAA	
+
+Paris, France
+Tokyo, Japan
+Montréal, Canada
+
+
+
+
+DSBD	
+
+Wroclaw, Poland
+
+
+
+
+DSBDA	
+
+Barcelona, Spain
+
+
+
+
+DSMM	
+
+Snowbird, Utah, USA
+
+
+
+
+DSS	
+
+Augsburg, Germany
+
+
+
+
+DSTUI	
+
+Gdansk, Poland
+
+
+
+
+DTMBIO	
+
+Melbourne, VIC, Australia
+
+
+
+
+DTMBio	
+
+Melbourne, VIC, Australia
+
+
+
+
+DaEng	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+DaMEN	
+
+Sydney, Australia
+
+
+
+
+DaMIS	
+
+London, UK
+
+
+
+
+DaMNet	
+
+Atlantic City, New Jersey, USA
+Barcelona, Spain
+
+
+
+
+DaMoN	
+
+Snowbird, Utah, USA
+New York, USA
+Athens, Greece
+
+
+
+
+DaWaK	
+
+Vienna, Austria
+Valencia, Spain
+Munich, Germany
+Toulouse, France
+Prague, Czech Republic
+
+
+
+
+DanaC	
+
+Snowbird, Utah, USA
+
+
+
+
+DataCom	
+
+Chengdu, Sichuan, China
+
+
+
+
+DeepRL	
+
+New York, USA
+
+
+
+
+DiPP	
+
+Veliko Tarnovo, Bulgaria
+
+
+
+
+Disaster Management	
+
+Istanbul, Turkey
+
+
+
+
+Distributed Neural Networks@IJCNN	
+
+Vancouver, Canada
+
+
+
+
+DocEng	
+
+Mountain View, CA, USA
+
+
+
+
+DyNetMM	
+
+New York, USA
+
+
+
+
+E-LKR	
+
+Toulouse, France
+
+
+
+
+EACL SRW	
+
+Valencia
+
+
+
+
+EANN	
+
+Aberdeen, Scotland, UK
+
+
+
+
+EAST - FLAIRS	
+
+Marco Island, Florida, USA
+
+
+
+
+ECAI	
+
+Ploiesti, Romania
+The Hague, The Netherlands
+
+
+
+
+ECAI AIL	
+
+Montpellier, France
+
+
+
+
+ECC	
+
+Ostrava, Czech Republic
+
+
+
+
+ECCV	
+
+Amsterdam, The Netherlands
+
+
+
+
+ECDM	
+
+Florence, Italy
+
+
+
+
+ECML MLLS	
+
+Porto, Portugal
+
+
+
+
+ECML-AALTD	
+
+Porto, Portugal
+
+
+
+
+ECML-PKDD	
+
+Porto, Portugal
+Skopje, Macedonia
+Riva del Garda, Italy
+
+
+
+
+ECML/PKDD	
+
+Porto, Portugal
+
+
+
+
+ECTA	
+
+Lisbon, Portugal
+
+
+
+
+EDA	
+
+Clermont-Ferrand, France
+
+
+
+
+EDB	
+
+Incheon, Korea
+Seoul, South Korea
+
+
+
+
+EDBT	
+
+Genoa, Italy
+Athens, Greece
+
+
+
+
+EDBT/ICDT Tutorials	
+
+Athens, Greece
+
+
+
+
+EDBT/ICDT Workshops	
+
+Athens, Greece
+
+
+
+
+EDM	
+
+Raleigh, USA
+Madrid, Spain
+
+
+
+
+EEML	
+
+Moscow, Russia
+
+
+
+
+EESMS	
+
+Bari, Italy
+
+
+
+
+EGPAI	
+
+The Hague, The Netherlands
+
+
+
+
+EHRW	
+
+Washington DC, USA
+
+
+
+
+EI--AIACT	
+
+Wuhan, China
+
+
+
+
+EI-ICDES	
+
+Kortrijk, Belgium
+
+
+
+
+EI-KDD	
+
+San Francisco, CA, USA
+
+
+
+
+EIDWT	
+
+Tirana, Albania
+
+
+
+
+EMACOM	
+
+Issyk Kul, Kyrgyzstan
+
+
+
+
+ENIC	
+
+Wroclaw, Poland
+
+
+
+
+EPIA	
+
+Porto, Portugal
+
+
+
+
+EPIA-TEMA	
+
+Coimbra, Portugal
+
+
+
+
+ER	
+
+Gifu, Japan
+
+
+
+
+ESAIR	
+
+Melbourne, VIC, Australia
+
+
+
+
+ESANN	
+
+Bruges, Belgium
+
+
+
+
+ESBD	
+
+Hong Kong, China
+
+
+
+
+ESWC	
+
+Portoroz, Slovenia
+
+
+
+
+EUMAS	
+
+Valencia, Spain
+
+
+
+
+EUSIPCO Special Session	
+
+Budapest, Hungary
+
+
+
+
+EUVIP	
+
+Marseille (France)
+
+
+
+
+EWRL	
+
+Barcelona, Spain
+
+
+
+
+EXPLORE	
+
+Singapore
+
+
+
+
+EdRecSys	
+
+Omaha, Nebraska, USA
+
+
+
+
+Electronic Imaging	
+
+Burlingame, CA, USA
+
+
+
+
+EnDM	
+
+Genoa, Italy
+Athens, Greece
+
+
+
+
+EnDM@EDBT	
+
+Genoa, Italy
+
+
+
+
+EnGeoData	
+
+Montréal, Canada
+
+
+
+
+EnviroInfo	
+
+Oldenburg, Lower Saxony, Germany
+
+
+
+
+EsPreSSE	
+
+Funchal, Madeira, Portugal
+
+
+
+
+EuroGP	
+
+Amsterdam, The Netherlands
+
+
+
+
+EuroVA	
+
+Bergen, Norway
+
+
+
+
+EvoMUSART	
+
+Porto, Portugal
+Amsterdam, The Netherlands
+
+
+
+
+FCST	
+
+Nagasaki, Japan
+
+
+
+
+FDML	
+
+Kaohsiung, Taiwan
+
+
+
+
+FDSE	
+
+Ho Chi Minh City, Vietnam
+
+
+
+
+FEAST	
+
+Lille, France
+
+
+
+
+FETLT	
+
+Seville, Spain
+
+
+
+
+FILM	
+
+Barcelona, Spain
+
+
+
+
+FLAIRS	
+
+Key Largo, FL, USA
+Marco Island, Florida, USA
+
+
+
+
+FLAIRS-RS	
+
+Hollywood, Florida, USA
+Key Largo, FL, USA
+
+
+
+
+FMBBS	
+
+Shenzhen, China
+
+
+
+
+FMML	
+
+Vancouver, Canada
+
+
+
+
+FOCS	
+
+New Brunswick, New Jersey, USA
+
+
+
+
+FUSION	
+
+Washington DC, USA
+
+
+
+
+FlashDB	
+
+Busan, South Korea
+
+
+
+
+FoIKS	
+
+Bordeaux, France
+
+
+
+
+FuturePD	
+
+Halifax, Nova Scotia, Canada
+
+
+
+
+GCAI	
+
+Berlin, Germany
+
+
+
+
+GDAM	
+
+Singapore
+
+
+
+
+GDM	
+
+Chicago, Illinois, USA
+Brisbane, Australia
+Washington DC, USA
+
+
+
+
+GECCO	
+
+Denver, Colorado, USA
+
+
+
+
+GECCOsws	
+
+Denver, Colorado, USA
+
+
+
+
+GID	
+
+Poitiers, France
+Vienna, Austria
+Ohrid, Republic of Macedonia
+
+
+
+
+GIGA	
+
+Buenos Aires, Argentina
+
+
+
+
+GOODTECHS	
+
+Venice, Italy
+
+
+
+
+GRADES	
+
+Snowbird, Utah, USA
+New York, USA
+
+
+
+
+GTM	
+
+Atlanta, Georgia, USA
+
+
+
+
+GeoDBIS	
+
+Vienna, Austria
+
+
+
+
+GlobalSIP	
+
+Orlando, Florida, USA
+Washington DC, USA
+
+
+
+
+Globe	
+
+Toulouse, France
+
+
+
+
+Graph-TA	
+
+Barcelona, Spain
+
+
+
+
+GraphQ	
+
+Genoa, Italy
+Athens, Greece
+
+
+
+
+GreenCom	
+
+Chengdu, Sichuan, China
+
+
+
+
+GvDB	
+
+Nörten-Hardenberg, Germany
+
+
+
+
+HADM	
+
+Atlantic City, New Jersey, USA
+
+
+
+
+HAIS	
+
+Bilbao
+Seville, Spain
+
+
+
+
+HCOMP	
+
+Austin, Texas, USA
+
+
+
+
+HDMM	
+
+Helsinki, Finland
+
+
+
+
+HDMS	
+
+Chania, Crete, Greece
+Athens, Greece
+
+
+
+
+HINA	
+
+New York, USA
+
+
+
+
+HIS	
+
+Beijing, China
+
+
+
+
+HLT-IA	
+
+New York, USA
+
+
+
+
+HPCAC	
+
+Leon Spain
+
+
+
+
+HPCDB	
+
+Seattle, WA, USA
+
+
+
+
+HSI	
+
+Ulsan, Korea
+
+
+
+
+HSP@HCIST	
+
+Porto, Portugal
+
+
+
+
+HTC	
+
+Agra, India
+
+
+
+
+HardBD	
+
+Macau, China
+
+
+
+
+HealthDENSE	
+
+University of Surrey, Guildford, UK
+
+
+
+
+IAC3T	
+
+Allahabad, India
+
+
+
+
+IASIM	
+
+Rome, Italy
+
+
+
+
+IBERAMIA	
+
+San Jose, Costa Rica
+
+
+
+
+IC-ININFO	
+
+Athens, Greece
+
+
+
+
+ICA	
+
+Matsue, Japan
+
+
+
+
+ICAAI	
+
+Bangkok, Thailand
+
+
+
+
+ICAART	
+
+Porto, Portugal
+Porto, Portugal
+
+
+
+
+ICACI	
+
+Chiang Mai, Thailand
+
+
+
+
+ICACNI	
+
+Rourkela, Odisha, India
+
+
+
+
+ICACSIS	
+
+Malang, Indonesia
+Depok, West Java
+
+
+
+
+ICACTE	
+
+Hong Kong, China
+
+
+
+
+ICAD	
+
+Canberra, Australia
+
+
+
+
+ICAIL	
+
+London, UK
+
+
+
+
+ICAIR	
+
+Kitakyushu, Japan
+
+
+
+
+ICAISC	
+
+Zakopane, Poland
+
+
+
+
+ICAIT	
+
+Katmandu, Nepal
+
+
+
+
+ICAITA	
+
+Dubai, UAE
+
+
+
+
+ICAME	
+
+Singapore
+
+
+
+
+ICAME--Ei	
+
+Singapore
+
+
+
+
+ICANN	
+
+Alghero/Sassari, Sardinia, Italy
+
+
+
+
+ICARSC	
+
+Bragança - Portugal
+
+
+
+
+ICASC	
+
+Kanyakumari, India
+
+
+
+
+ICAST	
+
+Qinhuangdao
+
+
+
+
+ICBBS	
+
+Bali, Indonesia
+
+
+
+
+ICBBT	
+
+Barcelona, Spain
+
+
+
+
+ICBBT- Ei	
+
+Lisbon, Portugal
+
+
+
+
+ICBCB	
+
+Hong Kong, China
+
+
+
+
+ICBCB - ACM	
+
+Hong Kong, China
+
+
+
+
+ICBCT	
+
+Hong Kong, China
+
+
+
+
+ICBDA	
+
+Beijing, China
+
+
+
+
+ICBEA	
+
+Hong Kong, China
+
+
+
+
+ICBEA--Ei	
+
+Hong Kong, China
+
+
+
+
+ICBNA	
+
+Tunisia
+
+
+
+
+ICBO	
+
+Prague, Czech Republic
+
+
+
+
+ICCAE	
+
+Sydney, Australia
+
+
+
+
+ICCAR	
+
+Nagoya, Japan
+
+
+
+
+ICCAR-IEEE	
+
+Hong Kong, China
+
+
+
+
+ICCASA	
+
+Thu Dau Mot City, Vietnam
+
+
+
+
+ICCBB	
+
+Langkawi, Malaysia
+
+
+
+
+ICCBR	
+
+Atlanta, Georgia, USA
+
+
+
+
+ICCCBDA	
+
+Chengdu, Sichuan, China
+Chengdu, Sichuan, China
+
+
+
+
+ICCDA	
+
+Lakeland, Florida, USA
+
+
+
+
+ICCDA-Ei	
+
+Lakeland, Florida, USA
+
+
+
+
+ICCDM	
+
+Singapore
+
+
+
+
+ICCES	
+
+Barcelona, Spain
+
+
+
+
+ICCIA-Ei	
+
+Jeju Island, South Korea
+
+
+
+
+ICCIDM	
+
+Odisha, India
+
+
+
+
+ICCIP - EI, ACM	
+
+Singapore
+
+
+
+
+ICCMA-EI	
+
+Barcelona, Spain
+
+
+
+
+ICCP	
+
+Cluj-Napoca, Romania
+
+
+
+
+ICCRD	
+
+Ho Chi Minh City, Vietnam
+
+
+
+
+ICCRE	
+
+Bangkok, Thailand
+Singapore
+
+
+
+
+ICCS	
+
+Istanbul, Turkey
+
+
+
+
+ICCSE	
+
+The University of British Columbia
+
+
+
+
+ICCSN-Ei(IEEE)	
+
+Beijing, China
+
+
+
+
+ICCSP	
+
+Wuhan, China
+
+
+
+
+ICCSSE	
+
+Beijing, China
+
+
+
+
+ICCTD	
+
+Paris, France
+
+
+
+
+ICDCST	
+
+Colombo
+
+
+
+
+ICDDM	
+
+Chengdu, Sichuan, China
+
+
+
+
+ICDE	
+
+Chicago, Illinois, USA
+San Diego, CA, USA
+Brisbane, Australia
+Helsinki, Finland
+
+
+
+
+ICDEPI	
+
+Nanyang Technological University
+
+
+
+
+ICDES	
+
+Kortrijk, Belgium
+
+
+
+
+ICDIM	
+
+Islamabad
+Porto, Portugal
+Jeju Island, South Korea
+
+
+
+
+ICDLE	
+
+Hertfordshire, UK
+
+
+
+
+ICDM	
+
+Shenzhen, China
+Atlantic City, New Jersey, USA
+Shenzhen, China
+Atlantic City, New Jersey, USA
+Barcelona, Spain
+
+
+
+
+ICDM PhD Forum	
+
+Atlantic City, New Jersey, USA
+
+
+
+
+ICDMM	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ICDPR	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ICDSC	
+
+Changsha, China
+
+
+
+
+ICDSE	
+
+Kochi, Kerala
+
+
+
+
+ICDSST	
+
+Belgrade, Serbia
+
+
+
+
+ICDT	
+
+Berlin, Germany
+Genoa, Italy
+
+
+
+
+ICDT/EDBT	
+
+Bordeaux, France
+
+
+
+
+ICE-B	
+
+Rome, Italy
+
+
+
+
+ICECIT	
+
+Tumkur
+
+
+
+
+ICEDA	
+
+Langkawi, Malaysia
+
+
+
+
+ICEEE-Ei	
+
+Istanbul, Turkey
+
+
+
+
+ICEESM	
+
+Bangkok, Thailand
+
+
+
+
+ICEET-Ei	
+
+Bali, Indonesia
+
+
+
+
+ICEIS	
+
+Beijing, China
+
+
+
+
+ICEMT	
+
+Shanghai, China
+
+
+
+
+ICFET	
+
+Singapore
+
+
+
+
+ICGI	
+
+Delft, The Netherlands
+
+
+
+
+ICIA	
+
+Łódź, Poland
+
+
+
+
+ICIAE	
+
+Singapore
+
+
+
+
+ICIAI	
+
+Singapore
+
+
+
+
+ICICDS	
+
+Hammamet, Tunisia
+
+
+
+
+ICICS	
+
+Amman, Jordan
+
+
+
+
+ICICSE	
+
+Guru Nanak Institutions, Hyderabad, India
+
+
+
+
+ICICT	
+
+Kanyakumari, India
+
+
+
+
+ICIEA-Ei	
+
+Hong Kong, China
+
+
+
+
+ICIET	
+
+Tokyo, Japan
+
+
+
+
+ICIIL	
+
+Lucerne, Switzerland
+
+
+
+
+ICIIP	
+
+Beijing, China
+
+
+
+
+ICIKM	
+
+Beijing, China
+
+
+
+
+ICIM-Ei	
+
+London, UK
+
+
+
+
+ICIMN--Ei	
+
+Mexico City, Mexico
+
+
+
+
+ICIMT	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ICINCO	
+
+Madrid, Spain
+
+
+
+
+ICINS-ACM	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ICIS-	
+
+Kochi, Kerala
+
+
+
+
+ICISDM	
+
+South Carolina, USA
+
+
+
+
+ICIST	
+
+Dubai, UAE
+Barcelona, Spain
+
+
+
+
+ICITDA	
+
+Yogyakarta, Indonesia
+
+
+
+
+ICITE	
+
+Singapore
+Singapore
+
+
+
+
+ICITM - IEEE	
+
+Clare College, Cambridge, UK
+
+
+
+
+ICIVC	
+
+Chengdu, Sichuan, China
+Portsmouth, UK
+
+
+
+
+ICIVC- SPIE	
+
+Chengdu, Sichuan, China
+
+
+
+
+ICKD	
+
+Chengdu, Sichuan, China
+
+
+
+
+ICKE	
+
+Tokyo, Japan
+
+
+
+
+ICKET	
+
+Hertfordshire, UK
+
+
+
+
+ICKSE	
+
+Paris, France
+
+
+
+
+ICLR	
+
+Palais des Congrès Neptune, Toulon, France
+San Juan, Puerto Rico
+
+
+
+
+ICMAA	
+
+Malacca, Malaysia
+
+
+
+
+ICMAA -MATEC	
+
+Malacca, Malaysia
+
+
+
+
+ICMAE	
+
+Prague, Czech Republic
+
+
+
+
+ICMAE-EI	
+
+London, UK
+
+
+
+
+ICMDA	
+
+Moscow, Russia
+
+
+
+
+ICMEAE	
+
+Bangkok, Thailand
+Singapore
+
+
+
+
+ICMEAE-Ei	
+
+Singapore
+
+
+
+
+ICMEP	
+
+Istanbul, Turkey
+
+
+
+
+ICMERR	
+
+Singapore
+
+
+
+
+ICMET	
+
+Sun Moon Lake, Taiwan
+
+
+
+
+ICMIE	
+
+Munich, Germany
+
+
+
+
+ICMIP	
+
+Wuhan, China
+
+
+
+
+ICMIP-Ei	
+
+Bandar Seri Begawan, Brunei
+
+
+
+
+ICML	
+
+New York, USA
+Sydney, Australia
+
+
+
+
+ICMLA	
+
+Miami, Florida, USA
+Los Angeles, California, USA
+
+
+
+
+ICMLC	
+
+Guangzhou, China
+Singapore
+
+
+
+
+ICMLC - ACM	
+
+Singapore
+
+
+
+
+ICMLSC	
+
+Ho Chi Minh City, Vietnam
+
+
+
+
+ICMLSC - ACM	
+
+Ho Chi Minh City, Vietnam
+
+
+
+
+ICMME	
+
+Shanghai, China
+
+
+
+
+ICMMI	
+
+The Beskids, Poland
+
+
+
+
+ICMMME--Ei	
+
+Seoul, South Korea
+
+
+
+
+ICMMR	
+
+Chongqing, China
+Xi'an, China
+
+
+
+
+ICMMR-Ei	
+
+Chongqing, China
+Xi'an, China
+
+
+
+
+ICMR	
+
+Bucharest, Romania
+New York, USA
+
+
+
+
+ICMRE	
+
+Paris, France
+
+
+
+
+ICMSC--EI	
+
+Moscow, Russia
+
+
+
+
+ICMSCE	
+
+Abdullah Gül University, Kayseri, Turkey
+
+
+
+
+ICMSI-Ei	
+
+Paris, France
+
+
+
+
+ICMST	
+
+Sarawak, Malaysia
+
+
+
+
+ICMST--Ei	
+
+Sarawak, Malaysia
+
+
+
+
+ICMV	
+
+Nice, France
+
+
+
+
+ICMVA	
+
+Beijing, China
+
+
+
+
+ICNCC - ACM	
+
+Kyoto, Japan
+
+
+
+
+ICNME-Ei	
+
+Bali, Indonesia
+
+
+
+
+ICOAE	
+
+Moscow, Russia
+
+
+
+
+ICOAI	
+
+Limerick City, Ireland
+
+
+
+
+ICOCB - EI	
+
+Jakarta, Indonesia
+
+
+
+
+ICOK	
+
+Chengdu, Sichuan, China
+
+
+
+
+ICONIP	
+
+Istanbul, Turkey
+Kyoto, Japan
+Guangzhou, China
+
+
+
+
+ICORES	
+
+Porto, Portugal
+
+
+
+
+ICOSE	
+
+Beijing, China
+
+
+
+
+ICPCO	
+
+Chongqing, China
+
+
+
+
+ICPRAM	
+
+Porto, Portugal
+Porto, Portugal
+
+
+
+
+ICRAE	
+
+Jeju Island, South Korea
+
+
+
+
+ICRAS	
+
+Hong Kong, China
+
+
+
+
+ICRCA	
+
+Tokyo, Japan
+
+
+
+
+ICRMM	
+
+Penang, Malaysia
+
+
+
+
+ICRMV	
+
+Moscow, Russia
+
+
+
+
+ICROM	
+
+Singapore
+
+
+
+
+ICRV	
+
+Wuhan, China
+
+
+
+
+ICSAE	
+
+Lucerne, Switzerland
+
+
+
+
+ICSCA	
+
+Bangkok, Thailand
+
+
+
+
+ICSCE	
+
+Jaipur, India
+
+
+
+
+ICSENT	
+
+Istanbul, Turkey
+
+
+
+
+ICSH	
+
+Phoenix, Arizona, USA
+
+
+
+
+ICSIBO	
+
+Mulhouse, France
+
+
+
+
+ICSIP-IEEE	
+
+Singapore
+
+
+
+
+ICSMA-Ei	
+
+Bali, Indonesia
+
+
+
+
+ICSN	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+ICSR	
+
+Kansas City, USA
+
+
+
+
+ICSRS	
+
+Paris, France
+
+
+
+
+ICTAI	
+
+San Jose, CA
+
+
+
+
+ICTCC	
+
+Hue City, Vietnam
+
+
+
+
+ICTLE-Ei	
+
+Sharjah, UAE
+
+
+
+
+ICTTE-Ei	
+
+Lucerne, Switzerland
+
+
+
+
+ICVED	
+
+Lucerne, Switzerland
+
+
+
+
+ICVR	
+
+Hong Kong, China
+
+
+
+
+ICWAPR	
+
+Guangzhou, China
+
+
+
+
+ICWS	
+
+Santa Clara, California, USA
+
+
+
+
+IDA	
+
+Stockholm
+Saint-Etienne, France
+
+
+
+
+IDAM	
+
+Kaohsiung, Taiwan
+
+
+
+
+IDAP	
+
+Malatya, Turkey
+Malatya, Turkey
+
+
+
+
+IDAR	
+
+Athens, Greece
+
+
+
+
+IDAVis	
+
+Hangzhou, China
+
+
+
+
+IDEA	
+
+Sydney, Australia
+San Francisco, CA, USA
+
+
+
+
+IDEAL	
+
+Wroclaw, Poland
+Yangzhou, China
+
+
+
+
+IDEAS	
+
+Prague, Czech Republic
+Barcelona, Spain
+Lisbon, Portugal
+
+
+
+
+IDEAS '11D	
+
+Lisbon, Portugal
+
+
+
+
+IE	
+
+London, UK
+
+
+
+
+IEA/AIE	
+
+Arras, France
+
+
+
+
+IEA/AIE 2017 PGM Track	
+
+Arras, France
+
+
+
+
+IEA/AIE NAAD	
+
+Arras, France
+
+
+
+
+IEEE BigComp	
+
+Jeju Island, South Korea
+
+
+
+
+IEEE BigDataService	
+
+Oxford, UK
+
+
+
+
+IEEE CISDA	
+
+Athens, Greece
+
+
+
+
+IEEE CPBG	
+
+Helsinki, Finland
+
+
+
+
+IEEE CSCloud	
+
+Beijing, China
+
+
+
+
+IEEE DSAA	
+
+Montréal, Canada
+
+
+
+
+IEEE HPSC	
+
+Shenzhen, China
+
+
+
+
+IEEE ICCRE	
+
+Singapore
+
+
+
+
+IEEE ICKEA	
+
+Singapore
+
+
+
+
+IEEE ICRAI	
+
+Islamabad
+
+
+
+
+IEEE ITOEC	
+
+Chongqing, China
+
+
+
+
+IEEE SMC	
+
+Hong Kong, China
+Hong Kong, China
+
+
+
+
+IEEE--ICAVE	
+
+Singapore
+
+
+
+
+IEEE--ICCCBDA	
+
+Chengdu, Sichuan, China
+
+
+
+
+IEEE--ICOIP	
+
+Warsaw, Poland
+
+
+
+
+IEEE--ICSGSC	
+
+Singapore
+
+
+
+
+IEEE--ISCBI	
+
+Dubai, UAE
+
+
+
+
+IEEE-CCSSE	
+
+Singapore
+
+
+
+
+IEEE-ICCCBDA	
+
+Chengdu, Sichuan, China
+
+
+
+
+IEEE-ICDDM	
+
+Chengdu, Sichuan, China
+
+
+
+
+IEEE-ICICM	
+
+Chengdu, Sichuan, China
+
+
+
+
+IEEE-ICIM	
+
+Chengdu, Sichuan, China
+
+
+
+
+IEEE-ICISE	
+
+Los Angeles, California, USA
+
+
+
+
+IEEE-ICRAS	
+
+New Taipei, Taiwan
+Hong Kong, China
+
+
+
+
+IEEE-ICSRS	
+
+Paris, France
+
+
+
+
+IEEE-ISCMI	
+
+Dubai, UAE
+
+
+
+
+IEEEBDAM	
+
+Santa Clara, California, USA
+
+
+
+
+IES	
+
+Bangkok, Thailand
+
+
+
+
+IFAC World Congress SIMCA	
+
+Toulouse, France
+
+
+
+
+IFSA-EUSFLAT	
+
+Gijón, Spain
+
+
+
+
+IIP	
+
+Melbourne, VIC, Australia
+
+
+
+
+IITI	
+
+Rostov-on-Don
+
+
+
+
+IJCAI	
+
+Melbourne, VIC, Australia
+New York, USA
+
+
+
+
+IJCAI-KDHEALTH	
+
+New York, USA
+
+
+
+
+IJCAI-SBD	
+
+New York, USA
+
+
+
+
+IJCNN	
+
+Anchorage, Alaska, USA
+
+
+
+
+IJCNN SS on Audio Applications	
+
+Anchorage, Alaska, USA
+
+
+
+
+IJCRS	
+
+Santiago, Chile
+
+
+
+
+IKE	
+
+Las Vegas, Nevada, USA
+
+
+
+
+ILP	
+
+London, UK
+Kyoto, Japan
+
+
+
+
+IMDM	
+
+Koblenz, Germany
+
+
+
+
+IML	
+
+New York, USA
+Fukuoka, Japan
+
+
+
+
+IMMM	
+
+Valencia, Spain
+
+
+
+
+IMS	
+
+Zagreb, Croatia
+
+
+
+
+INCISCOS	
+
+Quito, Ecuador
+
+
+
+
+INDIACom-2016(OMSA)	
+
+New Delhi, India
+
+
+
+
+INFORMS-DMA	
+
+Philadelphia, PA, USA
+
+
+
+
+INISTA	
+
+Madrid, Spain
+Sinaia, Romania
+
+
+
+
+INIT/AERFAISummerSchoolML	
+
+Benicàssim, Spain
+
+
+
+
+INTECH	
+
+Rabat
+
+
+
+
+IP	
+
+Buenos Aires, Argentina
+
+
+
+
+IPMU	
+
+Cádiz, Spain
+
+
+
+
+IROS	
+
+Daejeon, Korea
+Vancouver, Canada
+
+
+
+
+IRRATIONAL	
+
+Barcelona, Spain
+
+
+
+
+ISAIR	
+
+Wuhan, China
+Kitakyushu, Japan
+
+
+
+
+ISCBI	
+
+Bali, Indonesia
+Olten, Switzerland
+
+
+
+
+ISCI	
+
+Penang, Malaysia
+
+
+
+
+ISCMI	
+
+Dubai, UAE
+Hong Kong, China
+
+
+
+
+ISDM@FLAIRS	
+
+Marco Island, Florida, USA
+
+
+
+
+ISDSA	
+
+Milan, Italy
+
+
+
+
+ISICS	
+
+Mérida, México
+
+
+
+
+ISIS	
+
+Daegu, South Korea
+
+
+
+
+ISM	
+
+Miami, Florida, USA
+
+
+
+
+ISMIS	
+
+Warsaw, Poland
+
+
+
+
+ISMW FRUCT	
+
+St. Petersburg, Russia
+
+
+
+
+ISNEM@INCoS	
+
+Taipei, Taiwan
+
+
+
+
+ISNN	
+
+Sapporo, Hokkaido, Japan
+
+
+
+
+ISSEA	
+
+Druskininkai, Lithuania
+
+
+
+
+ISSNIP	
+
+Singapore
+
+
+
+
+ISW-LOD	
+
+San Jose, Costa Rica
+
+
+
+
+ISWC-InUse	
+
+Sydney, Australia
+
+
+
+
+ITBAM	
+
+Porto, Portugal
+
+
+
+
+ITCSE	
+
+Sydney, Australia
+
+
+
+
+ITMLS	
+
+Barcelona, Spain
+
+
+
+
+ITNG	
+
+Las Vegas, Nevada, USA
+
+
+
+
+ITPF	
+
+Mashhad, Iran
+
+
+
+
+ITS	
+
+Zagreb, Croatia
+
+
+
+
+ITSBD	
+
+Thessaloniki, Greece
+
+
+
+
+ITxOT Analytics	
+
+Santa Clara, California, USA
+
+
+
+
+IUI	
+
+Limassol, Cyprus
+Limassol, Cyprus
+Limassol, Cyprus
+Limassol, Cyprus
+
+
+
+
+IUI 2017 - Posters and Demos	
+
+Limassol, Cyprus
+
+
+
+
+IUPT	
+
+Hasselt, Belgium
+London, UK
+
+
+
+
+IVA	
+
+Los Angeles, California, USA
+
+
+
+
+IVAE	
+
+Greenville, South Carolina, USA
+
+
+
+
+IVUS	
+
+Kaunas, Lithuania
+
+
+
+
+IWBDS	
+
+Shanghai, China
+
+
+
+
+IWFBDC	
+
+Bangalore, India
+
+
+
+
+IWPR	
+
+Singapore
+
+
+
+
+IWSPA	
+
+New Orleans, USA
+Scottsdale, Arizona, USA
+
+
+
+
+InWebTech	
+
+Gdynia, Poland
+
+
+
+
+Industry Track RuleML	
+
+Stonybrook, NY
+
+
+
+
+Infer	
+
+Darmstadt, Germany
+
+
+
+
+Infovis & ML CFP at ESANN	
+
+Bruges, Belgium
+
+
+
+
+Insight	
+
+Klagenfurt, Austria
+
+
+
+
+IntelliSys	
+
+London, UK
+
+
+
+
+IoA -	
+
+Omaha, Nebraska, USA
+
+
+
+
+IoTAAL - PIMRC	
+
+Valencia, Spain
+
+
+
+
+JCSSE	
+
+Hatyai, Thailand
+Khon Kaen, Thailand
+
+
+
+
+JELIA 2016	
+
+Larnaca
+
+
+
+
+JFGG	
+
+Nîmes
+
+
+
+
+JFPC	
+
+Montpellier, France
+
+
+
+
+JFSMA	
+
+Rouen
+
+
+
+
+JISBD	
+
+A Coruña, Spain
+Almería, Spain
+Cádiz, Spain
+
+
+
+
+JSAI-isAI	
+
+Yokohama, Japan
+
+
+
+
+KACSTIT	
+
+Riyadh, Saudi Arabia
+
+
+
+
+KALSIMIS	
+
+Porto, Portugal
+
+
+
+
+KAM	
+
+Łódź, Poland
+
+
+
+
+KARE	
+
+Naples, Italy
+
+
+
+
+KDD	
+
+San Francisco, CA, USA
+San Diego, CA, USA
+Halifax, Nova Scotia, Canada
+Sydney, Australia
+
+
+
+
+KDMILE	
+
+Itaipava - Petropolis, Brazil
+
+
+
+
+KDWEB	
+
+Cagliari, Italy
+Cagliari, Italy
+
+
+
+
+KEOD	
+
+Paris, France
+
+
+
+
+KES	
+
+Sorrento Coast, Italy
+
+
+
+
+KES IDT DSS	
+
+Vilamoura, Algarve, Portugal
+
+
+
+
+KES-AMSTA-17 / IS04 (AMAT-CMS 2017)	
+
+Vilamoura, Algarve, Portugal
+
+
+
+
+KES-IDT	
+
+Puerto de la Cruz, Tenerife, Spain
+Gifu, Japan
+Sorrento Coast, Italy
+
+
+
+
+KES-IDT 	
+
+Tenerife, Spain
+
+
+
+
+KES-IDT / IABIRP	
+
+Vilamoura, Algarve, Portugal
+
+
+
+
+KES-IDT-17 / IS09 (IDT-CMS 2017)	
+
+Vilamoura, Algarve, Portugal
+
+
+
+
+KES-MDA	
+
+York, UK
+
+
+
+
+KI	
+
+Klagenfurt, Austria
+
+
+
+
+KRR@SAC	
+
+Marrakesh, Morrocco
+
+
+
+
+L@S	
+
+Massachusetts Institute of Technology
+Edinburgh, Scotland, UK
+
+
+
+
+LANMR	
+
+Puebla
+
+
+
+
+LDK	
+
+Galway, Ireland
+
+
+
+
+LDMC	
+
+Portoroz, Slovenia
+Portoroz, Slovenia
+
+
+
+
+LIIE	
+
+London, UK
+
+
+
+
+LSCNA	
+
+Kolkata, India
+
+
+
+
+LWA/KDML	
+
+Trier, Germany
+
+
+
+
+LWDA/KDML	
+
+Potsdam, Germany
+
+
+
+
+LWDM	
+
+Athens, Greece
+
+
+
+
+LWMOOCs	
+
+Columbia University, New York, USA
+
+
+
+
+LaSh	
+
+New York, USA
+
+
+
+
+LearningSys	
+
+Montréal, Canada
+
+
+
+
+MAICS	
+
+Fort Wayne, IN
+University of Dayton, Dayton, Ohio
+
+
+
+
+MAMLAKE	
+
+Kanazawa, Japan
+
+
+
+
+MANEM	
+
+Paris, France
+
+
+
+
+MASC-SLL	
+
+Philadelphia, PA, USA
+
+
+
+
+MCMC	
+
+Hong Kong, China
+
+
+
+
+MCS	
+
+Ulm University, Germany
+
+
+
+
+MCSD	
+
+Poznan, Poland
+
+
+
+
+MDDE	
+
+Istanbul, Turkey
+
+
+
+
+MDDM	
+
+Barcelona, Spain
+
+
+
+
+MDM	
+
+Brisbane, Australia
+Bangalore, India
+Pittsburgh, Pennsylvania, USA
+
+
+
+
+MDSP	
+
+Harbin, China
+
+
+
+
+MECHA	
+
+Dubai, UAE
+
+
+
+
+MECN	
+
+Dubai, UAE
+
+
+
+
+MEDI	
+
+Amantea, Calabria, Italy
+Poitiers, France
+
+
+
+
+MHDW	
+
+Thessaloniki, Greece
+Island of Rhodes, GREECE
+
+
+
+
+MIDAS	
+
+Riva del Garda, Italy
+
+
+
+
+MIKE	
+
+Mexico City, Mexico
+
+
+
+
+MIMIC	
+
+Toulouse, France
+
+
+
+
+MIWAI	
+
+Chiang Mai, Thailand
+
+
+
+
+ML-HPC	
+
+Pune, India
+
+
+
+
+MLDM	
+
+New York, USA
+New York, USA
+
+
+
+
+MLG	
+
+San Francisco, CA, USA
+
+
+
+
+MLHPC	
+
+Austin, Texas, USA
+Salt Lake City, Utah, USA
+
+
+
+
+MLICOM	
+
+Shanghai, China
+
+
+
+
+MLIS	
+
+Lille, France
+
+
+
+
+MLOSS	
+
+Lille, France
+
+
+
+
+MLPM	
+
+California, USA
+
+
+
+
+MLPMEA	
+
+Miami, Florida, USA
+
+
+
+
+MLPRA	
+
+Amsterdam, The Netherlands
+
+
+
+
+MLRec	
+
+British Columbia, Canada
+
+
+
+
+MLSA	
+
+Porto, Portugal
+Riva del Garda, Italy
+
+
+
+
+MLSB posters	
+
+The Hague, The Netherlands
+
+
+
+
+MLSCPS	
+
+Anaheim, CA, USA
+
+
+
+
+MLSLP	
+
+Aizu-Wakamatsu, Fukushima, Japan
+
+
+
+
+MLSP	
+
+Vietri Sul Mare, Salerno, Italy
+
+
+
+
+MLSP Special Session	
+
+Vietri Sul Mare, Salerno, Italy
+
+
+
+
+MOCO	
+
+London, UK
+
+
+
+
+MOD	
+
+Volterra (Pisa) Tuscany
+
+
+
+
+MORE-BI	
+
+Florence, Italy
+
+
+
+
+MPCHS	
+
+Montréal, Canada
+
+
+
+
+MSA	
+
+Łódź, Poland
+
+
+
+
+MT4BD	
+
+Thessaloniki, Greece
+
+
+
+
+MUD@ICML	
+
+Lille, France
+
+
+
+
+MUSE	
+
+Porto, Portugal
+
+
+
+
+MWDA	
+
+Nanchang, Jiangxi, China
+
+
+
+
+MWDHealth	
+
+Chicago, Illinois, USA
+
+
+
+
+MaLTeSQuE	
+
+Klagenfurt, Austria
+
+
+
+
+MaxEnt	
+
+Clarkson University, Potsdam, NY, USA
+
+
+
+
+MetaSel	
+
+Porto, Portugal
+
+
+
+
+MindCare	
+
+Barcelona, Spain
+
+
+
+
+Mine4Dev	
+
+Cotonou, Republic of Benin
+
+
+
+
+MoReBikeS Challenge	
+
+Porto, Portugal
+
+
+
+
+MobiArch	
+
+Paris, France
+
+
+
+
+MobiDE	
+
+Scottsdale, Arizona, USA
+New York, USA
+Athens, Greece
+
+
+
+
+MobiMedia	
+
+Xi'an, China
+
+
+
+
+MobiSocial	
+
+Pittsburgh, Pennsylvania, USA
+
+
+
+
+MobileDM	
+
+Atlantic City, New Jersey, USA
+
+
+
+
+NCCOCE	
+
+Bangalore, India
+
+
+
+
+NDM	
+
+Sweden
+
+
+
+
+NEDB Summit	
+
+Cambridge, MA, USA
+
+
+
+
+NIMD	
+
+Rome, Italy
+
+
+
+
+NIPS	
+
+Barcelona, Spain
+Montréal, Canada
+
+
+
+
+NIPS ML4HC	
+
+Barcelona, Spain
+
+
+
+
+NIPS Modern ML+NLP	
+
+Montréal, Canada
+
+
+
+
+NIPS: Workshop on Action & Interaction	
+
+Barcelona, Spain
+
+
+
+
+NISTBigData	
+
+Gaithersburg, MD, USA
+
+
+
+
+NLDB	
+
+University of Liège, Liège, Belgium
+
+
+
+
+NMRPC	
+
+Reykjavík, Iceland
+
+
+
+
+NN	
+
+Tehran, Iran
+
+
+
+
+NN in Games	
+
+Leiden, The Netherlands
+
+
+
+
+NSAIS	
+
+Lappeenranta
+
+
+
+
+NTIRE	
+
+Taipei, Taiwan
+
+
+
+
+NTMS	
+
+Dubai, UAE
+
+
+
+
+NetSciX	
+
+Wroclaw, Poland
+
+
+
+
+NetSys PhD Forum	
+
+Stuttgart, Germany
+
+
+
+
+NoCoDA	
+
+San Francisco, CA, USA
+
+
+
+
+NoSQL-Net	
+
+Munich, Germany
+
+
+
+
+ODBASE	
+
+Amantea, Calabria, Italy
+Graz, Austria
+
+
+
+
+ODD	
+
+San Francisco, CA, USA
+
+
+
+
+ODDx3	
+
+Sydney, Australia
+
+
+
+
+OrdRing	
+
+Bonn, Germany
+
+
+
+
+Oriental COCOSDA	
+
+Hsinchu City, Taiwan
+Macau, China
+
+
+
+
+PAIS	
+
+Khenchela, Algeria
+Genoa, Italy
+
+
+
+
+PAKDD	
+
+Auckland, New Zealand
+Jeju Island, South Korea
+Ho Chi Minh City, Vietnam
+
+
+
+
+PAKDD (Tutorial)	
+
+Tainan, Taiwan
+
+
+
+
+PAML	
+
+Salzburg, Austria
+Reggio di Calabria
+
+
+
+
+PAPIs	
+
+Boston, MA, USA
+
+
+
+
+PAPIs.io	
+
+Sydney, Australia
+
+
+
+
+PBDA	
+
+Warsaw, Poland
+
+
+
+
+PBVS	
+
+Las Vegas, Nevada, USA
+
+
+
+
+PCSC	
+
+Palawan, Philippines
+
+
+
+
+PDAC	
+
+Salt Lake City, Utah, USA
+
+
+
+
+PDCKDD	
+
+Porto, Portugal
+
+
+
+
+PEOCO	
+
+Shah Alam, Selangor, Malaysia
+
+
+
+
+PIC	
+
+Shanghai, China
+
+
+
+
+PIS@WorldCist	
+
+Porto Santo, Madeira, Portugal
+
+
+
+
+PKAW	
+
+Phuket, Thailand
+
+
+
+
+PLP	
+
+London, UK
+
+
+
+
+PODS	
+
+Scottsdale, Arizona, USA
+Snowbird, Utah, USA
+New York, USA
+
+
+
+
+PPDMA	
+
+Vancouver, Canada
+
+
+
+
+PQ	
+
+Rio de Janeiro, Brazil
+
+
+
+
+PR4MCA	
+
+Hanoi, VietNam
+
+
+
+
+PRASA-RobMech	
+
+Stellenbosch, South Africa
+
+
+
+
+PRICAI	
+
+Phuket, Thailand
+
+
+
+
+PRIMA	
+
+Phuket, Thailand
+
+
+
+
+PRNI	
+
+Stanford, CA, USA
+
+
+
+
+ParLearning	
+
+Chicago, Illinois, USA
+
+
+
+
+PersDB	
+
+Istanbul, Turkey
+Riva del Garda, Trento, Italy
+
+
+
+
+PlanSIG	
+
+Huddersfield, UK
+
+
+
+
+PrAISe	
+
+The Hague, The Netherlands
+
+
+
+
+PrivDB	
+
+Brisbane, Australia
+
+
+
+
+QDB	
+
+Istanbul, Turkey
+New Delhi, India
+Seattle, WA, USA
+Trento, Italy
+
+
+
+
+QoS-Workshop	
+
+Beijing, China
+
+
+
+
+RAHA -	
+
+Amritapuri, Kerala, India
+
+
+
+
+RATIC	
+
+Atlanta, Georgia, USA
+
+
+
+
+RDSS	
+
+Snowbird, Utah, USA
+
+
+
+
+RFIA	
+
+Clermont-Ferrand, France
+
+
+
+
+RSDA	
+
+Toulouse, France
+
+
+
+
+RSmeetDB	
+
+Prague, Czech Republic
+Vienna, Austria
+
+
+
+
+RSmeetDBs	
+
+Toulouse, France
+
+
+
+
+RTIS	
+
+Beijing, China
+
+
+
+
+RTStreams	
+
+Helsinki, Finland
+
+
+
+
+RWVW	
+
+Boston, MA, USA
+
+
+
+
+Randomized ML @ ESANN	
+
+Bruges, Belgium
+
+
+
+
+RecSys	
+
+Vienna, Austria
+
+
+
+
+RecSys@FLAIRS	
+
+Marco Island, Florida, USA
+
+
+
+
+RuleLearning@RuleML	
+
+Berlin, Germany
+
+
+
+
+RuleML	
+
+Stony Brook University, New York, USA
+
+
+
+
+RuleML Challenge	
+
+Stony Brook University, New York, USA
+
+
+
+
+S3PBIGDATA	
+
+Pittsburgh, Pennsylvania, USA
+
+
+
+
+SAB	
+
+Aberystwyth University, Aberystwyth, UK
+
+
+
+
+SABID	
+
+Atlantic City, New Jersey, USA
+Washington DC, USA
+
+
+
+
+SACCOCO	
+
+Marrakesh, Morrocco
+
+
+
+
+SAEOpt	
+
+Denver, Colorado, USA
+
+
+
+
+SANER	
+
+Osaka, Japan
+
+
+
+
+SASO	
+
+Augsburg, Germany
+
+
+
+
+SBBD	
+
+Curitiba, Brazil
+Sao Paulo, Brazil
+
+
+
+
+SBD	
+
+Raleigh, USA
+
+
+
+
+SCDM	
+
+Washington DC, USA
+
+
+
+
+SCDS	
+
+Kuala Lumpur, Malaysia
+
+
+
+
+SCIA	
+
+Tromsø, Norway
+
+
+
+
+SCIS-ISIS	
+
+Sapporo, Hokkaido, Japan
+
+
+
+
+SCSN	
+
+Laguna Hills, California
+
+
+
+
+SDA	
+
+London, UK
+
+
+
+
+SDAAM	
+
+Washington DC, USA
+
+
+
+
+SDM	
+
+Istanbul, Turkey
+Houston, Texas, USA
+Seattle, WA, USA
+Miami, Florida, USA
+
+
+
+
+SDM-BSA	
+
+Vancouver, Canada
+
+
+
+
+SDMA	
+
+Riyadh, Saudi Arabia
+
+
+
+
+SDMSM	
+
+Washington DC, USA
+
+
+
+
+SE4GT'16@ISAmI	
+
+Seville, Spain
+
+
+
+
+SEBD	
+
+Venice, Italy
+Maratea, Italy
+Sorrento Coast, Italy
+Roccella Jonica, RC, Italy
+
+
+
+
+SEDE	
+
+San Diego, CA, USA
+
+
+
+
+SEPLN	
+
+Salamanca
+
+
+
+
+SET	
+
+Vancouver, Canada
+
+
+
+
+SFI	
+
+Cracow, Poland
+
+
+
+
+SIAI	
+
+Seoul, South Korea
+
+
+
+
+SIDEWAYS	
+
+Cyprus
+
+
+
+
+SIGMOD	
+
+Scottsdale, Arizona, USA
+San Francisco, CA, USA
+Raleigh, USA
+Melbourne, VIC, Australia
+New York, USA
+
+
+
+
+SIGNAL	
+
+Dubai, UAE
+
+
+
+
+SIMBig	
+
+Cusco, Peru
+
+
+
+
+SIN	
+
+Aksaray, Turkey
+
+
+
+
+SIPAIM	
+
+Cuenca, Ecuador
+
+
+
+
+SISAP	
+
+Tokyo, Japan
+Toronto, Canada
+Glasgow, Scotland, UK
+
+
+
+
+SISAP (LNCS and IS Journal)	
+
+Los Cabos, Mexico
+
+
+
+
+SITIS	
+
+Kyoto, Japan
+
+
+
+
+SKG	
+
+Beijing, China
+
+
+
+
+SLIE	
+
+Marco Island, Florida, USA
+
+
+
+
+SLPCS	
+
+Glasgow, Scotland, UK
+
+
+
+
+SMART	
+
+Timisoara, Romania
+
+
+
+
+SMC-BMI	
+
+Budapest, Hungary
+
+
+
+
+SMDB	
+
+Brisbane, Australia
+Washington DC, USA
+Chicago, Illinois, USA
+
+
+
+
+SML	
+
+New York, USA
+
+
+
+
+SMLIR	
+
+Thessaloniki, Greece
+
+
+
+
+SNAA	
+
+UC Davis, Davis, CA, USA
+Paris, France
+
+
+
+
+SNMAM	
+
+Cusco, Peru
+
+
+
+
+SNOW	
+
+Montréal, Canada
+
+
+
+
+SNPD	
+
+Takamatsu, Japan
+
+
+
+
+SOCC	
+
+San Jose, CA
+
+
+
+
+SOMOCO	
+
+Rome, Italy
+
+
+
+
+SOTM-EU	
+
+Vienna, Austria
+
+
+
+
+SPCIES	
+
+Warsaw, Poland
+
+
+
+
+SPECOM	
+
+Budapest, Hungary
+
+
+
+
+SPIE-ICGIP	
+
+Tokyo, Japan
+
+
+
+
+SPLINE	
+
+Aalborg, Denmark
+
+
+
+
+SPTM	
+
+Chennai, India
+
+
+
+
+SRS	
+
+Sydney, Australia
+
+
+
+
+SSCI	
+
+Athens, Greece
+
+
+
+
+SSDBM	
+
+Chania, Crete, Greece
+Portland, Oregon
+
+
+
+
+SSDM	
+
+Riva del Garda, Italy
+Riva del Garda, Italy
+
+
+
+
+SSML	
+
+Benicàssim, Spain
+
+
+
+
+SSTD	
+
+Minneapolis, MN, USA
+Seoul, South Korea
+Munich, Germany
+
+
+
+
+STAIRS	
+
+The Hague, The Netherlands
+
+
+
+
+STAMLINS	
+
+Lille, France
+
+
+
+
+STIR	
+
+Washington DC, USA
+
+
+
+
+STSIVA	
+
+Bucaramanga, Colombia
+
+
+
+
+SUM	
+
+Nice, France
+Marburg, Germany
+Quebec, Canada
+Dayton, Ohio
+
+
+
+
+SWEET	
+
+Snowbird, Utah, USA
+New York, USA
+
+
+
+
+SWM	
+
+Cambridge, UK
+
+
+
+
+SYNASC	
+
+Timisoara, Romania
+
+
+
+
+SYRCoDIS	
+
+Veliky Novgorod, Russia
+Kazan, Russia
+Moscow, Russia
+Moscow, Russia
+
+
+
+
+SeCoP	
+
+Dallas, Texas, USA
+
+
+
+
+SeMaT	
+
+Austin, Texas, USA
+
+
+
+
+SecMAS	
+
+Singapore
+
+
+
+
+SenseML	
+
+Seoul, South Korea
+
+
+
+
+SiPML	
+
+Soonchunhyang (SCH) University, Asan, Korea
+
+
+
+
+Sideways	
+
+Madeira
+
+
+
+
+Sideways -	
+
+Portoroz, Slovenia
+
+
+
+
+Smart X	
+
+Dalian, China
+
+
+
+
+SmartData	
+
+Chengdu, Sichuan, China
+
+
+
+
+SoCC	
+
+San Jose, CA
+Santa Clara, California, USA
+
+
+
+
+SoCPaR	
+
+VIT University, Vellore
+
+
+
+
+SoDA	
+
+Bangkok, Thailand
+
+
+
+
+SoDAC	
+
+Bangkok, Thailand
+
+
+
+
+SoDM	
+
+Institut Teknologi Brunei, Brunei
+
+
+
+
+SoEA4EE	
+
+Vancouver, Canada
+
+
+
+
+SoMePeAS	
+
+Aberdeen, Scotland, UK
+
+
+
+
+SoMeRis	
+
+Barcelona, Spain
+
+
+
+
+SocInf	
+
+New York, USA
+
+
+
+
+Sociable Smart City	
+
+Prague, Czech Republic
+
+
+
+
+SocialCom	
+
+Chengdu, Sichuan, China
+
+
+
+
+SocialNLP@IJCAI	
+
+New York, USA
+
+
+
+
+SocialSens	
+
+Dallas, Texas, USA
+
+
+
+
+StoryCase	
+
+Lyon, France
+
+
+
+
+Summer School FCM	
+
+Volos, Greece
+
+
+
+
+Summer school	
+
+UQAM, Montreal, Qc. Canada
+
+
+
+
+SustainCom	
+
+Chengdu, Sichuan, China
+
+
+
+
+SysInt	
+
+Paderborn, Germany
+
+
+
+
+TAAI	
+
+Tayih Landis Hotel, Tainan, Taiwan
+
+
+
+
+TASK-CV	
+
+Santiago, Chile
+
+
+
+
+TC4SP	
+
+Clermont-Ferrand, France
+
+
+
+
+TENCON-SS-CITA	
+
+Singapore
+
+
+
+
+TFML	
+
+Będlewo, Poland
+Cracow, Poland
+
+
+
+
+TGC@ICONIP	
+
+Kyoto, Japan
+
+
+
+
+TIDM	
+
+Dallas, Texas, USA
+
+
+
+
+TIME	
+
+Copenhagen, Denmark
+
+
+
+
+TLAD	
+
+Manchester, United Kingdom
+
+
+
+
+TLWorkshop	
+
+Montréal, Canada
+
+
+
+
+TMNZ	
+
+Hamilton, New Zealand
+
+
+
+
+TPCTC	
+
+Seattle, WA, USA
+
+
+
+
+TPDP	
+
+New York, USA
+
+
+
+
+TRANSACT	
+
+Barcelona, Spain
+
+
+
+
+TSCT	
+
+West Bengal
+
+
+
+
+TSD	
+
+Prague, Czech Republic
+
+
+
+
+TSP	
+
+Vienna, Austria
+
+
+
+
+TaPP	
+
+Heraklion, Crete, Greece
+
+
+
+
+Tutorials and Workshops@ECML/PKDD	
+
+Athens, Greece
+
+
+
+
+UAI	
+
+New York, USA
+
+
+
+
+UCC - IDP	
+
+Shanghai, China
+
+
+
+
+UOII	
+
+Riga, Latvia
+
+
+
+
+UR@FLA	
+
+Marco Island, Florida, USA
+
+
+
+
+URSW	
+
+Kobe, Japan
+
+
+
+
+USEWOD	
+
+Hyderabad, India
+
+
+
+
+UrbComp	
+
+San Francisco, CA, USA
+
+
+
+
+VAAM	
+
+Torino/Turin, Italy
+Cancún, Mexico
+
+
+
+
+VARVAI	
+
+Amsterdam, The Netherlands
+
+
+
+
+VAST	
+
+Montréal, Canada
+
+
+
+
+VDA	
+
+Burlingame, CA, USA
+
+
+
+
+VISAPP	
+
+Porto, Portugal
+
+
+
+
+VLDB	
+
+Seattle, WA, USA
+New Delhi, India
+Lago Di Garda, Trento, Italy
+Kohala Coast, Hawaii, USA
+Hangzhou, China
+Istanbul, Turkey
+
+
+
+
+VLDS	
+
+Seattle, WA, USA
+
+
+
+
+VS3	
+
+Prague, Czech Republic
+
+
+
+
+WACV	
+
+Lake Placid, NY, USA.
+
+
+
+
+WAIM	
+
+Qingdao, Shandong, China
+
+
+
+
+WCCI	
+
+Vancouver, Canada
+
+
+
+
+WCO	
+
+Gdansk, Poland
+
+
+
+
+WCSE	
+
+Tokyo, Japan
+Wuhan, China
+
+
+
+
+WCSE-Ei	
+
+Tokyo, Japan
+
+
+
+
+WEIN	
+
+Singapore
+
+
+
+
+WINVIZNN	
+
+Taipei, Taiwan
+
+
+
+
+WIRN	
+
+Vietri Sul Mare, Salerno, Italy
+
+
+
+
+WISA	
+
+Gran Canaria, Spain, Europe
+
+
+
+
+WISE	
+
+Paphos, Cyprus
+
+
+
+
+WISTIPS	
+
+Druskininkai, Lithuania
+
+
+
+
+WMLI	
+
+Barcelona, Spain
+
+
+
+
+WNUT	
+
+Osaka, Japan
+
+
+
+
+WOD	
+
+Paris, France
+Nantes, France
+
+
+
+
+WOD - Summer School	
+
+Saint-Petersburg
+
+
+
+
+WOSCIA	
+
+Seville, Spain
+
+
+
+
+WSDM	
+
+Cambridge, UK
+
+
+
+
+WSDM Cup	
+
+Cambridge, MA, USA
+
+
+
+
+WWW	
+
+Montréal, Canada
+
+
+
+
+WebDB	
+
+Snowbird, Utah, USA
+New York, USA
+Scottsdale, Arizona, USA
+
+
+
+
+WebMiReS	
+
+Seville, Spain
+
+
+
+
+WiML	
+
+Barcelona, Spain
+Montréal, Canada
+
+
+
+
+WoTBD	
+
+Bahrain
+
+
+
+
+XLDB	
+
+Menlo Park, CA
+
+
+
+
+XMLDM	
+
+Harbin, China
+
+
+
+
+YSM	
+
+London, UK
+
+
+
+
+[ ICCIS ]	
+
+Bangkok, Thailand
+
+
+
+
+[ ICMDM ]	
+
+Jeju Island, South Korea
+
+
+
+
+exploreWeb	
+
+Paphos, Cyprus
+
+
+
+
+frontiersQS	
+
+Heidelberg
+
+
+
+
+iCICS	
+
+Irbid, Jordan
+Irbid, Jordan
+
+
+
+
+iDSC	
+
+Salzburg, Austria
+
+
+
+
+iThings	
+
+Chengdu, Sichuan, China
+
+
+
+
+icaase	
+
+Constantine- Algerie
+
+
+
+
+miproBIS	
+
+Opatija, Croatia
+
+
+
+
+serecsys	
+
+Barcelona, Spain
+
+
+
+
