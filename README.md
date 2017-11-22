@@ -2,7 +2,7 @@
 
 
 # Description
-Introduction to Data Mining is a basic Data crawling, Data cleaning and Hadoop implementation. It has 3 parts.
+Crawl Clean and Learn is a basic Data crawling, Data cleaning and Hadoop implementation. It has 3 parts.
 
 In Part 1, data is crawled from WikiCFP website (http://www.wikicfp.com/cfp/) for the conferences on Data mining, Machine Learning, Database and Artificial Intelligence. For each of this category of conferences, the conference acronym, conference name and conference location is obtained for further processing. Moreover, for each category up to 20 pages are crawled.
 
